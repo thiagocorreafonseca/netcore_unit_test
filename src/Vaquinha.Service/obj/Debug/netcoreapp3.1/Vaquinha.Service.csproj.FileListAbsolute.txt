@@ -1,0 +1,14 @@
+D:\projetos\BootCamp_Avanade\dotnet-vaquinha-tests\src\Vaquinha.Service\bin\Debug\netcoreapp3.1\Vaquinha.Service.deps.json
+D:\projetos\BootCamp_Avanade\dotnet-vaquinha-tests\src\Vaquinha.Service\bin\Debug\netcoreapp3.1\Vaquinha.Service.dll
+D:\projetos\BootCamp_Avanade\dotnet-vaquinha-tests\src\Vaquinha.Service\bin\Debug\netcoreapp3.1\Vaquinha.Service.pdb
+D:\projetos\BootCamp_Avanade\dotnet-vaquinha-tests\src\Vaquinha.Service\bin\Debug\netcoreapp3.1\Vaquinha.Domain.dll
+D:\projetos\BootCamp_Avanade\dotnet-vaquinha-tests\src\Vaquinha.Service\bin\Debug\netcoreapp3.1\Vaquinha.Repository.dll
+D:\projetos\BootCamp_Avanade\dotnet-vaquinha-tests\src\Vaquinha.Service\bin\Debug\netcoreapp3.1\Vaquinha.Repository.pdb
+D:\projetos\BootCamp_Avanade\dotnet-vaquinha-tests\src\Vaquinha.Service\bin\Debug\netcoreapp3.1\Vaquinha.Domain.pdb
+D:\projetos\BootCamp_Avanade\dotnet-vaquinha-tests\src\Vaquinha.Service\obj\Debug\netcoreapp3.1\Vaquinha.Service.csprojAssemblyReference.cache
+D:\projetos\BootCamp_Avanade\dotnet-vaquinha-tests\src\Vaquinha.Service\obj\Debug\netcoreapp3.1\Vaquinha.Service.AssemblyInfoInputs.cache
+D:\projetos\BootCamp_Avanade\dotnet-vaquinha-tests\src\Vaquinha.Service\obj\Debug\netcoreapp3.1\Vaquinha.Service.AssemblyInfo.cs
+D:\projetos\BootCamp_Avanade\dotnet-vaquinha-tests\src\Vaquinha.Service\obj\Debug\netcoreapp3.1\Vaquinha.Service.csproj.CoreCompileInputs.cache
+D:\projetos\BootCamp_Avanade\dotnet-vaquinha-tests\src\Vaquinha.Service\obj\Debug\netcoreapp3.1\Vaquinha.Service.csproj.CopyComplete
+D:\projetos\BootCamp_Avanade\dotnet-vaquinha-tests\src\Vaquinha.Service\obj\Debug\netcoreapp3.1\Vaquinha.Service.dll
+D:\projetos\BootCamp_Avanade\dotnet-vaquinha-tests\src\Vaquinha.Service\obj\Debug\netcoreapp3.1\Vaquinha.Service.pdb
